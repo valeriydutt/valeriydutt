@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on #fullstackchallenge
-- 🌱 I’m currently learning GoLang
+- 🔭 Currently working on #fullstackchallenge
+- 🌱 Learning GoLang
 - 📄 Check my [CV](https://github.com/valeriydutt/latex-cv/blob/main/Valeriy_Dutt_Resume.pdf) and website for more info;
 - 📫 How to reach me: valeriydutt@gmail.com
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/valeriy-dutt-a60664166/) 
