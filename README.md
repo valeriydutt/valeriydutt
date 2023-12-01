@@ -1,11 +1,5 @@
 # 👋 Hi there, I am Valeriy!
 
-
-
-- 🔭 Currently working on #fullstackchallenge
-- 🌱 Learning NodeJS
-- 📄 Check my [CV](https://github.com/valeriydutt/latex-cv/blob/main/Valeriy_Dutt_Resume.pdf) and website for more info;
-- 📫 How to reach me: valeriydutt@gmail.com
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/valeriy-dutt-a60664166/) 
 
 ## 🛠️ My tools
